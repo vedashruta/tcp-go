@@ -21,7 +21,7 @@ TCP stands for Transmission Control Protocol. It is a transport layer protocol t
 
 ### Prerequisites
 
-- Go 1.23+ installed on your machine.
+- Go 1.21+ installed on your machine.
 - A terminal to run the commands.
 
 ### Running the Server
